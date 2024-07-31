@@ -1,4 +1,11 @@
-## 👋 Hi, I'm Jeremy Sell. I have 10 years of software engineering experience working toward user-centric products. 
+👋 Hi, I'm Jeremy Sell. I am a Senior Software Developer with over a decade of experience in web development, specializing in JavaScript, React, TypeScript, Node, PHP, and front-end technologies. I also really enjoy CSS in all its flavors: Grid/Flex, LESS/SCSS, and Tailwind/Material/Bootstrap.
+
+### About Me 
+---
+Proven leader with a track record of optimizing user experiences, mentoring development teams, and driving innovation. Passionate about creating high-quality, user-centric products and fostering a culture of continuous learning and growth.
+
+### Technical Skills
+---
 
 <!--
 **thestereoscopics/thestereoscopics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
