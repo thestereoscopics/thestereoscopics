@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Jeremy Sell. I have 10 years of software engineering experience working toward user-centric products. 
 
 <!--
 **thestereoscopics/thestereoscopics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
